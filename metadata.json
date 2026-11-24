@@ -1,0 +1,6 @@
+{
+  "name": "Markdown Reader",
+  "description": "Markdown Reader is a free online Markdown viewer that lets you open, read and preview .md files in a clean, distraction-free reading experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
